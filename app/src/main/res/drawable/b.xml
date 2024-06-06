@@ -1,0 +1,4 @@
+<shape xmlns:android="http://schemas.android.com/apk/res/android">
+    <solid android:color="#FF6200EE"/> <!-- Ubah warna sesuai keinginan Anda -->
+    <corners android:radius="0dp"/> <!-- 0dp untuk membuat sudut-sudut menjadi tajam/kotak -->
+</shape>
